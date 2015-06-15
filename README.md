@@ -8,7 +8,6 @@ Very helpfull for agile developpers teams.
 
 ## prerequisites
 * **for using jsonp** - because you are in your own private developpement team LAN : start Jenkins server with the following Java setting : java -jar -Dhudson.model.Api.INSECURE=true jenkins.war
-* **for getting jsonp** - adding &jsonp=jenkinsJobsCallback to the called json URL. For sample : http://myjenkinserver.priv.de:8080/jenkins/api/json?pretty=true&jsonp=jenkinsJobsCallback
 
 ## features
 * **visibility** - wide colored squarred shapes according to jenkins status
