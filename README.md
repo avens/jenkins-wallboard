@@ -14,7 +14,11 @@ Very helpfull for agile developpers teams (SCRUM).
 * **details** - job detail on squarred shape click
 
 ## prerequisites
-* **for using jsonp** - because you are trusting in your own private developpement team LAN : start Jenkins server with the following Java setting : java -jar -Dhudson.model.Api.INSECURE=true jenkins.war
+* **for using jsonp** - because you are trusting in your own private developpement team LAN : start Jenkins server with the following Java setting :
+
+```bash
+java -jar -Dhudson.model.Api.INSECURE=true jenkins.war
+```
 
 ## details
 * **third-party libraries** - JQuery (1.10.2), JQuery Cookie (1.4.0) and JQuery Mobile (1.4.0) are used
