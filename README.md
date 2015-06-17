@@ -7,7 +7,7 @@ Very helpfull for agile developpers teams (SCRUM).
 ## main screenshot
 ![Wallboard screenshot](https://github.com/avens/jenkins-wallboard/blob/master/wallboard.png?raw=true)
 
-## features
+## v1.0.0 features
 * **high visibility** - wide colored squarred shapes according to jenkins status
 * **realtime** - autorefresh mode every 60 seconds
 * **current building jobs** - blinking effect for running jobs
